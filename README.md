@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjacanthi1995&label=Profile%20views&color=0e75b6&style=flat" alt="ninjacanthi1995" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninjacanthi1995" alt="ninjacanthi1995" /></a> </p>
-
 - 🔭 I’m currently in Internship at [Campus At Work](https://campusatwork.fr/)
 
 - 👯 I’m looking for a **Fulltime Remote Web Development Job**
