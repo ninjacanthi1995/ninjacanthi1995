@@ -1,7 +1,7 @@
 - 👋 Hi, I’m HOANG Minh Chau
 - 👀 I’m interested in IT Technologies
-- 🌱 I’m currently learning Fullstack Javascript Web Development 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently in Internship as Fullstack Javascript Web Developer 
+- 💞️ I’m looking for a Fulltime Remote Web Development Job
 - 📫 How to reach me https://www.linkedin.com/in/minh-chau-hoang-b59602121/
 
 <!---
