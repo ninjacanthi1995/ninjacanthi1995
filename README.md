@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm HOANG Minh Chau</h1>
 <h3 align="center">A passionate Fullstack Javascript Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjacanthi1995&label=Profile%20views&color=0e75b6&style=flat" alt="ninjacanthi1995" /> </p>
-
 - 🔭 I’m currently in Internship at [Campus At Work](https://campusatwork.fr/)
 
 - 👯 I’m looking for a **Fulltime Remote Web Development Job**
